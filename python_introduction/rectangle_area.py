@@ -1,5 +1,5 @@
 #!/bin/main
-length= 10
+length = 10
 width = 5
 # calulate area of rectangle
 area = length * width
